@@ -622,5 +622,9 @@ ELOS.run_source(source_string, user_id=12345, env={"DISCORD_TOKEN": "..."})
 ## License
 
 Licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+ELOS™ is a trademark of MyLittleElement.
+
+The ELOS name, logo, and branding may not be used
+for modified or unofficial versions without permission.
 
 <img src="elosdc_logo.png" alt="ELOS for Discord" width="75px" align="right"/> <img src="elos_logo.png" alt="ELOS for Discord" width="75px" align="left"/>
