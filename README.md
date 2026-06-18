@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="elos_logo.png" alt="ELOS" width="100px"/>
+  <img src="elos_logo.png" alt="ELOS" width="150px"/>
 </p>
 
 ---
 
-<img src="elosdc_logo.png" alt="ELOS for Discord" width="75px"/>
- # ELOS
+# <img src="elosdc_logo.png" alt="ELOS for Discord" width="50px" align="center"/> ELOS
 
 A scripting runtime for Discord bots. Write bots in a clean, minimal scripting language — no boilerplate, no setup overhead.
 
@@ -623,3 +622,5 @@ ELOS.run_source(source_string, user_id=12345, env={"DISCORD_TOKEN": "..."})
 ## License
 
 Licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+<img src="elosdc_logo.png" alt="ELOS for Discord" width="75px" align="right"/> <img src="elos_logo.png" alt="ELOS for Discord" width="75px" align="left"/>
